@@ -3,7 +3,7 @@ def test_api_health_check(client):
     Testa o endpoint de health check /health.
     """
     response = client.get("/health")
-    assert response.status_code == 201
+    assert response.status_code == 200
     assert response.get_json() == {"status": "ok"}
 
 
