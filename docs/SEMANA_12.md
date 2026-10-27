@@ -321,14 +321,14 @@ O resultado da atividade é uma cadeia que possa ser auditada:
 
 `Issue com aceite → cartão no Project → branch com número → commits → PR → revisão → checks obrigatórios verdes → merge → Issue e cartão concluídos`
 
-- [ ] Issue criada com o título sugerido (ou título equivalente) e critérios verificáveis.
-- [ ] Issue adicionada ao Project com prioridade e estado atualizado.
-- [ ] Branch numerada criada a partir da branch base correta.
-- [ ] Teste de integração para título composto por espaços incluído.
-- [ ] CI acionado em PR e configurado para lint, unitários, integração, E2E e cobertura mínima de 80%.
-- [ ] PR vinculada à Issue e preenchida com resumo e validação.
-- [ ] Uma revisão humana registrada e conversas resolvidas.
-- [ ] Check real do CI exigido pela regra de proteção de `main`.
-- [ ] Bloqueio por falha demonstrado e depois recuperado sem merge da regressão.
-- [ ] PR real integrada, Issue fechada e cartão concluído.
-- [ ] Links da Issue, Project, PR e workflow guardados como evidências da atividade.
+- [x] Issue criada com o título sugerido (ou título equivalente) e critérios verificáveis.
+- [x] Issue adicionada ao Project com prioridade e estado atualizado.
+- [x] Branch numerada criada a partir da branch base correta.
+- [x] Teste de integração para título composto por espaços incluído.
+- [x] CI acionado em PR e configurado para lint, unitários, integração, E2E e cobertura mínima de 80%.
+- [x] PR vinculada à Issue e preenchida com resumo e validação.
+- [x] Uma revisão humana registrada e conversas resolvidas.
+- [x] Check real do CI exigido pela regra de proteção de `main`.
+- [x] Bloqueio por falha demonstrado e depois recuperado sem merge da regressão.
+- [x] PR real integrada, Issue fechada e cartão concluído.
+- [x] Links da Issue, Project, PR e workflow guardados como evidências da atividade.
